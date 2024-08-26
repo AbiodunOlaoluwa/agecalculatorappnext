@@ -1,0 +1,15 @@
+.card {
+    border-radius: 3% 3% 25% 3%;
+}
+
+.arrowContainer {
+    background-color: #854dff;
+}
+
+.arrowContainer:hover {
+    background-color: black;
+}
+
+.hr {
+    width: 89%;
+}
